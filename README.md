@@ -1,4 +1,6 @@
 # Macrobot
+Create for personal uses and my first ever repo in git please be gentle with it.
+
 # Personal MacroBot 
 
 A high-performance desktop automation platform built from scratch in Python using **CustomTkinter**, **OpenCV**, and **PyAutoGUI**. 
