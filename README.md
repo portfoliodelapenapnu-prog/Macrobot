@@ -1,5 +1,5 @@
 # Macrobot
-Create for personal uses and my first ever repo in git please be gentle with it.
+Created for personal uses and my first ever repo in git please be gentle with it.
 
 # Personal MacroBot 
 
