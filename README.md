@@ -11,9 +11,14 @@ This tool was designed to automate trivial, repetitive tasks while incorporating
 * **Dynamic Easing Curves:** Simulates authentic cursor velocity changes (acceleration and deceleration curves).
 * **Asynchronous Execution:** Runs loops on an independent, non-blocking background execution thread.
 
+## Demo
+![Macrobot Interface](Screenshot%202026-06-02%20085435.png)
+![Macrobot Interface](Screenshot%202026-06-02%20085239.png)
+
 ## Getting Started
 
 ### Prerequisites
 Ensure you have Python installed, then run:
 ```bash
 pip install customtkinter pyautogui opencv-python numpy pillow pynput
+```
